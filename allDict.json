@@ -1,0 +1,303 @@
+{
+    "案件基本信息": {
+        "label_name": "案件基本信息",
+        "attributes": [],
+        "prompt_text": "本案现已审理终结"
+    },
+    "案名": {
+        "label_name": "案名",
+        "attributes": [],
+        "prompt_text": "纠纷"
+    },
+    "审理法院": {
+        "label_name": "审理法院",
+        "attributes": [],
+        "prompt_text": "人民法院"
+    },
+    "案号": {
+        "label_name": "案号",
+        "attributes": [],
+        "prompt_text": "号；民事判决书"
+    },
+    "审理程序": {
+        "label_name": "审理程序",
+        "attributes": [
+            {
+                "key": "状态",
+                "value": "一审"
+            },
+            {
+                "key": "状态",
+                "value": "二审"
+            },
+            {
+                "key": "状态",
+                "value": "再审"
+            }
+        ],
+        "prompt_text": "初（一审）；终（二审）；再（再审）"
+    },
+    "案件基本事实部分": {
+        "label_name": "案件基本事实部分",
+        "attributes": [],
+        "prompt_text": ""
+    },
+    "劳动者性别": {
+        "label_name": "劳动者性别",
+        "attributes": [
+            {
+                "key": "状态",
+                "value": "男"
+            },
+            {
+                "key": "状态",
+                "value": "女"
+            }
+        ],
+        "prompt_text": "父亲；丈夫；儿子；哥——男；母亲；妻子；女儿；妹；女工人——女；"
+    },
+    "出生时间": {
+        "label_name": "出生时间",
+        "attributes": [],
+        "prompt_text": ""
+    },
+    "劳动起始时间": {
+        "label_name": "劳动起始时间",
+        "attributes": [],
+        "prompt_text": "入职；开始工作；自…到…；工龄"
+    },
+    "劳动结束时间": {
+        "label_name": "劳动结束时间",
+        "attributes": [],
+        "prompt_text": "死亡；发生交通事故；受伤；车祸；解除劳动合同；离开工作岗位"
+    },
+    "开始劳动的年龄": {
+        "label_name": "开始劳动的年龄",
+        "attributes": [],
+        "prompt_text": "入职；开始工作；"
+    },
+    "结束劳动的年龄": {
+        "label_name": "结束劳动的年龄",
+        "attributes": [],
+        "prompt_text": "发生交通事故；死亡；受伤；"
+    },
+    "有无书面合同": {
+        "label_name": "有无书面合同",
+        "attributes": [
+            {
+                "key": "状态",
+                "value": "有"
+            },
+            {
+                "key": "状态",
+                "value": "无"
+            }
+        ],
+        "prompt_text": "签订书面劳动合同；劳务合同；雇佣协议书；协议书；聘用合同书；书面劳动合同；口头约定；无固定期限劳动合同"
+    },
+    "仲裁委拒绝仲裁的理由": {
+        "label_name": "仲裁委拒绝仲裁的理由",
+        "attributes": [],
+        "prompt_text": "申请仲裁；不予受理；年龄超过退休年龄"
+    },
+    "劳动者何时达到法定退休年龄": {
+        "label_name": "劳动者何时达到法定退休年龄",
+        "attributes": [
+            {
+                "key": "状态",
+                "value": "劳动期间达到法定退休年龄"
+            },
+            {
+                "key": "状态",
+                "value": "劳动前达到法定退休年龄"
+            }
+        ],
+        "prompt_text": "乙方已达法定退休年龄；入职时已达到法定退休年龄；已达到法定退休年龄；劳动前达到法定退休年龄；"
+    },
+    "结束劳动时是否达到法定退休年龄": {
+        "label_name": "结束劳动时是否达到法定退休年龄",
+        "attributes": [
+            {
+                "key": "状态",
+                "value": "是"
+            },
+            {
+                "key": "状态",
+                "value": "否"
+            }
+        ],
+        "prompt_text": "属于超过法定退休年龄；超过法定退休年龄"
+    },
+    "有无享受养老保险待遇": {
+        "label_name": "有无享受养老保险待遇",
+        "attributes": [
+            {
+                "key": "状态",
+                "value": "无"
+            },
+            {
+                "key": "状态",
+                "value": "有"
+            }
+        ],
+        "prompt_text": "领取养老金；享受；城乡居民养老保险；城镇居民社会养老保险；新型农村社会养老保险；城镇职工基本养老保险待遇"
+    },
+    "养老保险待遇类型": {
+        "label_name": "养老保险待遇类型",
+        "attributes": [
+            {
+                "key": "类型",
+                "value": "城乡居民养老保险"
+            },
+            {
+                "key": "类型",
+                "value": "城镇居民社会养老保险"
+            },
+            {
+                "key": "类型",
+                "value": "新型农村社会养老保险"
+            },
+            {
+                "key": "类型",
+                "value": "城镇职工基本养老保险待遇"
+            }
+        ],
+        "prompt_text": "城乡居民养老保险；城镇居民社会养老保险；新型农村社会养老保险；城镇职工基本养老保险待遇"
+    },
+    "回顾一审法院的认定理由": {
+        "label_name": "回顾一审法院的认定理由",
+        "attributes": [],
+        "prompt_text": ""
+    },
+    "回顾一审法院的认定依据": {
+        "label_name": "回顾一审法院的认定依据",
+        "attributes": [],
+        "prompt_text": ""
+    },
+    "回顾一审法院的裁判依据": {
+        "label_name": "回顾一审法院的裁判依据",
+        "attributes": [],
+        "prompt_text": ""
+    },
+    "回顾一审法院的裁判结果": {
+        "label_name": "回顾一审法院的裁判结果",
+        "attributes": [
+            {
+                "key": "状态",
+                "value": "劳动关系"
+            },
+            {
+                "key": "状态",
+                "value": "劳务关系"
+            }
+        ],
+        "prompt_text": ""
+    },
+    "回顾二审法院的认定理由": {
+        "label_name": "回顾二审法院的认定理由",
+        "attributes": [],
+        "prompt_text": ""
+    },
+    "回顾二审法院的认定依据": {
+        "label_name": "回顾二审法院的认定依据",
+        "attributes": [],
+        "prompt_text": ""
+    },
+    "回顾二审法院的裁判依据": {
+        "label_name": "回顾二审法院的裁判依据",
+        "attributes": [],
+        "prompt_text": ""
+    },
+    "回顾二审法院的裁判结果": {
+        "label_name": "回顾二审法院的裁判结果",
+        "attributes": [
+            {
+                "key": "状态",
+                "value": "劳动关系"
+            },
+            {
+                "key": "状态",
+                "value": "劳务关系"
+            }
+        ],
+        "prompt_text": ""
+    },
+    "理由": {
+        "label_name": "理由",
+        "attributes": [],
+        "prompt_text": ""
+    },
+    "审理法院的认定理由": {
+        "label_name": "审理法院的认定理由",
+        "attributes": [],
+        "prompt_text": ""
+    },
+    "审理法院的认定依据": {
+        "label_name": "审理法院的认定依据",
+        "attributes": [],
+        "prompt_text": ""
+    },
+    "基本养老保险待遇的认定理由": {
+        "label_name": "基本养老保险待遇的认定理由",
+        "attributes": [],
+        "prompt_text": ""
+    },
+    "是否认定为基本养老保险待遇": {
+        "label_name": "是否认定为基本养老保险待遇",
+        "attributes": [
+            {
+                "key": "状态",
+                "value": "是"
+            },
+            {
+                "key": "状态",
+                "value": "否"
+            }
+        ],
+        "prompt_text": ""
+    },
+    "裁判依据": {
+        "label_name": "裁判依据",
+        "attributes": [],
+        "prompt_text": ""
+    },
+    "审理法院的实体裁判依据": {
+        "label_name": "审理法院的实体裁判依据",
+        "attributes": [],
+        "prompt_text": ""
+    },
+    "裁判主文": {
+        "label_name": "裁判主文",
+        "attributes": [],
+        "prompt_text": "判决如下"
+    },
+    "审理法院的对应裁判结果": {
+        "label_name": "审理法院的对应裁判结果",
+        "attributes": [
+            {
+                "key": "状态",
+                "value": "劳动关系"
+            },
+            {
+                "key": "状态",
+                "value": "劳务关系"
+            }
+        ],
+        "prompt_text": ""
+    },
+    "落款": {
+        "label_name": "落款",
+        "attributes": [],
+        "prompt_text": ""
+    },
+    "审结时间": {
+        "label_name": "审结时间",
+        "attributes": [],
+        "prompt_text": ""
+    },
+    "审理法官": {
+        "label_name": "审理法官",
+        "attributes": [],
+        "prompt_text": ""
+    }
+}
